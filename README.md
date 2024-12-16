@@ -1,4 +1,4 @@
-# Reaching supercritical field strengths with intense lasers,  T G Blackburn et al 2019 New J. Phys. 21 053040
+# Reaching supercritical field strengths with intense lasers
 
 Original authors of paper: T G Blackburn, A Ilderton, M Marklund and C P Ridgers
 
